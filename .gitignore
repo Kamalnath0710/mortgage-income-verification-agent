@@ -1,0 +1,20 @@
+# Python virtual environment & cache
+backend/venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Runtime uploaded PDFs (keep sample_docs if you want demo PDFs in the repo)
+backend/uploads/
+
+# Node / React dependencies & build output
+frontend/node_modules/
+node_modules/
+frontend/dist/
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/

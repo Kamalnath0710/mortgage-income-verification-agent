@@ -1,0 +1,4 @@
+state_code,county_code,loan_purpose,median_applicant_income_thousands,median_loan_amount,max_dti_benchmark
+CA,06037,1,118,525000,43.0
+TX,48201,1,94,345000,43.0
+NY,36061,1,142,680000,43.0
